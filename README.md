@@ -11,12 +11,6 @@ The Meme Generator is a React-based application that allows users to create cust
 - Download the generated meme as an image.  
 - Responsive design for both desktop and mobile devices.  
 
----
-
-## Live Demo  
-Check out the live version of the app [here](https://million-art.github.io/react-meme-generator).  
-
----
 
 ## Installation  
 
