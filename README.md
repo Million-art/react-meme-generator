@@ -27,5 +27,4 @@ The Memory Game is a fun and engaging card-matching game designed to test and en
 
 ### Steps
 1. Clone the repository:
-   ```bash
-[(https://github.com/Million-art/react-meme-generator.git)]
+   ```bash [(https://github.com/Million-art/react-meme-generator.git)]```
